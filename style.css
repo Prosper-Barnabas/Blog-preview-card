@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  outline: 1px solid red;
 }
 
 :root {
@@ -19,6 +20,7 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: var(--Yellow);
   font-size: 16px;
+  width: 100%;
 }
 
 #blog_card {
@@ -27,7 +29,8 @@ body {
   border: 1px solid var(--Gray-950);
   border-radius: 20px;
   padding: 20px;
-  margin: 2rem;
+  margin: 0 auto;
+  overflow: hidden;
   box-shadow: 8px 8px 0px var(--Gray-950);
 }
 
