@@ -2,7 +2,6 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  outline: 1px solid red;
 }
 
 :root {
@@ -112,7 +111,7 @@ body {
 
 @media (max-width: 375px) {
   .blog_card {
-    max-width: 320px;
+    max-width: 290px;
   }
 
   .blog_content h1 {
