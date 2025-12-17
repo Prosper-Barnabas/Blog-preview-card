@@ -24,12 +24,11 @@ body {
 
 #blog_card {
   background-color: var(--White);
-  max-width: 375px;
+  max-width: 350px;
   border: 1px solid var(--Gray-950);
   border-radius: 20px;
   padding: 20px;
   margin: 2rem;
-  overflow: hidden;
   box-shadow: 8px 8px 0px var(--Gray-950);
 }
 
