@@ -28,7 +28,7 @@ body {
   border: 1px solid var(--Gray-950);
   border-radius: 20px;
   padding: 20px;
-  margin: 0 auto;
+  margin: 2rem;
   overflow: hidden;
   box-shadow: 8px 8px 0px var(--Gray-950);
 }
@@ -85,7 +85,7 @@ body {
 }
 
 .blog_content p {
-  font-size: 1rem;
+  font-size: 1.15rem;
   line-height: 1.3rem;
   letter-spacing: 0.02rem;
   color: var(--Gray-500);
@@ -115,10 +115,10 @@ body {
   }
 
   .blog_content h1 {
-    font-size: 1.15rem;
+    font-size: 1.1rem;
   }
 
   .blog_content p {
-    font-size: 0.8rem;
+    font-size: 0.95rem;
   }
 }
