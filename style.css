@@ -110,7 +110,7 @@ body {
 
 @media (max-width: 375px) {
   .blog_card {
-    max-width: 290px;
+    max-width: 300px;
   }
 
   .blog_content h1 {
